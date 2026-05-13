@@ -10,7 +10,7 @@ Built for the Nistula Summer Technology Internship 2026 technical assessment.
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/gangadhar0424/nistula-technical-assessment.git
 cd nistula-technical-assessment
 
 # 2. Create a virtual environment (recommended)
